@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PersonView">
+        <attr name="image" format="reference" />
+        <attr name="text" format="string"/>
+    </declare-styleable>
+    <declare-styleable name="CustomSwitch">
+        <attr name="customimage" format="reference"/>
+        <attr name="Switch" format="color"/>
+    </declare-styleable>
+
+
+
+
+    <declare-styleable name="MyspidometrView">
+        <attr name="maxSpeed" format="integer"/>
+        <attr name="currentSpeed" format="integer"/>
+    </declare-styleable>
+
+
+    </resources>

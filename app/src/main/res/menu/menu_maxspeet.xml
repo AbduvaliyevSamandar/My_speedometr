@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:id="@+id/speed180"
+        android:title="180"
+        />
+    <item android:id="@+id/speed220"
+        android:title="220"
+        />
+    <item android:id="@+id/speed280"
+        android:title="280"
+        />
+    <item android:id="@+id/speed360"
+        android:title="360"
+        />
+</menu>
